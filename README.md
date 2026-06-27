@@ -1,4 +1,4 @@
 - ⚡ 25 años.
 - 📧 Gmail: trejoperezraulernesto@gmail.com
 - 💼 Linkedin: linkedin.com/in/trejopérez
-- 📚 Egresado de Lic. Administración de Empresas en Universidad Modular Abierta Sonsonate.
+- 📚 Egresado de Lic. Administración de Empresas - Universidad Modular Abierta.
