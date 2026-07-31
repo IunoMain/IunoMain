@@ -33,9 +33,5 @@ Estado   : Construyendo cosas nuevas.
 - [IunoMainWork](https://github.com/IunoMain/IunoMainWork) — C++
 - [IunoMainWork-II](https://github.com/IunoMain/IunoMainWork-II) — Java
 
-### 📊 Estadísticas
-
-![Stats](https://github-readme-stats.vercel.app/api?username=IunoMain&show_icons=true&theme=radical)
-
 ---
-<p align="center"><i>Que te jodan!.</i></p>
+<p align="center"><i>2026</i></p>
