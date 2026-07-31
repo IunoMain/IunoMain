@@ -22,9 +22,5 @@ Stack    : C++ | Java
 - [IunoMainWork](https://github.com/IunoMain/IunoMainWork) — C++
 - [IunoMainWork-II](https://github.com/IunoMain/IunoMainWork-II) — Java
 
-### 📊 Estadísticas
-
-![Stats](https://github-readme-stats.vercel.app/api?username=IunoMain&show_icons=true&theme=radical)
-
 ---
 <p align="center"><i>Gracias por visitar mi perfil.</i></p>
