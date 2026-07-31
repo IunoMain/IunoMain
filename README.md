@@ -11,7 +11,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=900&color=FFFFFF&center=true&vCenter=true&width=600&lines=Universidad+Modular+Abierta" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=999&color=FFFFFF&center=true&vCenter=true&width=600&lines=Universidad+Modular+Abierta" />
 </p>
 
 ---
