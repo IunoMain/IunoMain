@@ -5,10 +5,12 @@
 </p>
 
 <h3 align="center">25 años · San Salvador, El Salvador</h3>
+<h3 align="center">Lic. Administración de Empresas</h3>
+<h3 align="center">Universidad Modular Abierta</h3>
 
 ---
 
-### 🧑‍💻 whoami
+### 🧑‍💻 Me
 ```
 Nombre   : Raúl
 Edad     : 25 años
@@ -18,7 +20,7 @@ Stack    : C++ | Java
 
 ```
 
-### 📫 Contacto
+### 📫 Contact
 - 📧 Gmail: trejoperezraulernesto@gmail.com
 - 💼 LinkedIn: [linkedin.com/in/trejopérez](https://linkedin.com/in/trejopérez)
 - 🐦 X (Twitter): [@TrejoPerez666](https://twitter.com/TrejoPerez666)
