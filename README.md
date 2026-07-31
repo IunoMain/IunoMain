@@ -15,7 +15,7 @@ Edad     : 25 años
 Ubicación: San Salvador, El Salvador
 Estudios : Lic. Administración de Empresas - Universidad Modular Abierta
 Stack    : C++ | Java
-Estado   : Construyendo cosas nuevas.
+
 ```
 
 ### 📫 Contacto
