@@ -14,11 +14,11 @@
 
 ### 🧑‍💻 Me
 ```
-Nombre   : Raúl
-Edad     : 25 años
-Ubicación: San Salvador, El Salvador
-Estudios : Lic. Administración de Empresas - Universidad Modular Abierta
-Language : C++ | Java
+Nombre    : Raúl
+Edad      : 25 años
+Ubicación : San Salvador, El Salvador
+Estudios  : Lic. Administración de Empresas - Universidad Modular Abierta
+Language  : C++ | Java
 
 ```
 
