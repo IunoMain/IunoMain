@@ -18,7 +18,7 @@ Nombre   : Raúl
 Edad     : 25 años
 Ubicación: San Salvador, El Salvador
 Estudios : Lic. Administración de Empresas - Universidad Modular Abierta
-Software    : C++ | Java
+Software : C++ | Java
 
 ```
 
